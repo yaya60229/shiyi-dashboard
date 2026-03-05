@@ -1,0 +1,25 @@
+{
+  "status": "Available",
+  "lastUpdated": "2025-03-05",
+  "todayEarnings": 0,
+  "monthEarnings": 0,
+  "totalEarned": 0,
+  "activeProjects": 0,
+  "earningsTrend": 0,
+  "monthTrend": 0,
+  "projects": [],
+  "dailyLogs": [
+    {
+      "date": "2025-03-05",
+      "hours": 2,
+      "earnings": 0,
+      "tasks": [
+        "Set up work dashboard",
+        "Research freelance platforms",
+        "Prepare service offerings"
+      ],
+      "notes": "Dashboard deployed. Ready to start applying for jobs."
+    }
+  ],
+  "earningsHistory": []
+}
