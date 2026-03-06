@@ -12,7 +12,7 @@ export default function Dashboard() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch("/data/work-data.json")
+    fetch("/shiyi-dashboard/data/work-data.json")
       .then((res) => res.json())
       .then((data) => {
         setData(data);
